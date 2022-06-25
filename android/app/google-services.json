@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40820719386",
+    "project_id": "nstant-d2ab8",
+    "storage_bucket": "nstant-d2ab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40820719386:android:42aad9ae2140d2a67776a3",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40820719386-mamnkjokp1ctnn5kle6q1jimhka6i9pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjKor3xiTBFr66tAyAgKvsgLyf4fT91bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40820719386-mamnkjokp1ctnn5kle6q1jimhka6i9pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
